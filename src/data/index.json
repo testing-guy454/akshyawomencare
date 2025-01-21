@@ -1,0 +1,77 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/female-fertility.png",
+      "title": "Female Fertility",
+      "description": "Female fertility hinges on the health of the ovaries, egg quality, and the regularity of the menstrual cycle. Fertility declines naturally with age, especially after 35. Conditions like polycystic ovary syndrome (PCOS), endometriosis, and hormonal imbalances can disrupt reproductive health."
+    },
+    {
+      "id": "2",
+      "src": "./img/male-fertility.png",
+      "title": "Male Fertility",
+      "description": "Male fertility depends on the production of healthy sperm, which includes factors like sperm count, motility, and shape. Age, lifestyle choices, and health conditions such as obesity or infections can impact sperm quality. Exposure to environmental toxins, smoking, excessive alcohol, and stress also play significant roles."
+    },
+    {
+      "id": "3",
+      "src": "./img/consultation.png",
+      "title": "Infertility Consultation",
+      "description": "Infertility affects many couples, making it difficult to conceive naturally. Consulting a fertility specialist is the first step toward understanding and addressing the causes. Specialists evaluate medical history, perform diagnostic tests, and offer personalized treatment options."
+    },
+    {
+      "id": "4",
+      "src": "./img/treatment.png",
+      "title": "Treatment",
+      "description": "Infertility affects many couples, making it difficult to conceive naturally. Consulting a fertility specialist is the first step toward understanding and addressing the causes. Specialists evaluate medical history, perform diagnostic tests, and offer personalized treatment options."
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/placeholder-image.jpg",
+      "title": "Personalized Treatment",
+      "description": "We understand that every woman is different, and so are her health concerns. Our experienced healthcare professionals take the time to listen, understand, and assess your individual health goals and challenges.",
+      "link": "Get in Touch"
+    },
+    {
+      "id": "2",
+      "src": "./img/placeholder-image-1.jpg",
+      "title": "Confidentiality",
+      "description": "We hold your privacy and confidentiality in the highest regard. We are committed to safeguarding all your personal and medical information with the utmost care and professionalism. Our healthcare team adheres to strict privacy practices and complies with all relevant laws and regulations.",
+      "link": "Get in Touch"
+    },
+    {
+      "id": "3",
+      "src": "./img/placeholder-image-2.jpg",
+      "title": "Pactitioners Network",
+      "description": "A practitioner's network in women's healthcare is a critical component of the medical landscape, focused on delivering comprehensive and specialized care to women at every stage of life.",
+      "link": "Get in Touch"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/avatar-image.png",
+      "description": "We had a wonderful experience with Akshya Women Care. The entire team was supportive, thorough, and empathetic. The state-of-the-art technology and the personalized care plan tailored to our needs gave us confidence every step of the way.",
+      "author_name": "Rajesh Kumar",
+      "author_designation": "Dentist"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/avatar-image-1.png",
+      "description": "The team at Akshya Women Care is simply amazing. From the welcoming front desk staff to the expert medical team, everyone played a role in making our dream come true. The personalized attention and care we received made a challenging process much easier.",
+      "author_name": "Hitesh Singh",
+      "author_designation": "Engineer"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/avatar-image-2.png",
+      "description": "We are forever grateful for the care and expertise we received here. From the very first consultation, the team made us feel supported and hopeful. Every staff member was compassionate and knowledgeable, ensuring we understood every step of the process.",
+      "author_name": "Khushboo Raj",
+      "author_designation": "Teacher"
+    }
+  ]
+}
