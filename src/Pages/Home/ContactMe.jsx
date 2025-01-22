@@ -187,7 +187,7 @@ export default function ContactMe() {
     type="tel"
     className="contact--input text-md"
     name="phoneNumber"
-    placeholder='91+'
+    placeholder='+91'
     id="phone-number"
     value={formData.phoneNumber}
     onChange={(e) => {

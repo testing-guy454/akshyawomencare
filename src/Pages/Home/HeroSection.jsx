@@ -3,7 +3,7 @@ import { faPhone } from '@fortawesome/free-solid-svg-icons';
 
 
 export default function HeroSection() {
-  const phoneNumber = "7903900830"; // Specify the phone number
+  const phoneNumber = "9119650050"; // Specify the phone number
 
   const handleClick = () => {
     window.location.href = `tel:${phoneNumber}`;
