@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c874394e.css",
+    "main.js": "/static/js/main.be8e9c27.js",
+    "static/media/illustration-woman-online-desktop.svg": "/static/media/illustration-woman-online-desktop.843eb114c7213a596ee2.svg",
+    "static/media/bg-pattern-desktop.svg": "/static/media/bg-pattern-desktop.f51e07a2f52390c60484.svg",
+    "index.html": "/index.html",
+    "static/media/icon-arrow-down.svg": "/static/media/icon-arrow-down.852fa301a0e795e07c59.svg",
+    "main.c874394e.css.map": "/static/css/main.c874394e.css.map",
+    "main.be8e9c27.js.map": "/static/js/main.be8e9c27.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c874394e.css",
+    "static/js/main.be8e9c27.js"
+  ]
+}

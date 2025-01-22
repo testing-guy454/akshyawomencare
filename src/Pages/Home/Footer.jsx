@@ -309,7 +309,7 @@ function Footer() {
           </ul>
         </div>
         <div>
-          <p id="phoneNoF">+91 9334083113</p>
+          <p id="phoneNoF">+91 9119650050</p>
         </div>
       </div>
     </footer>
